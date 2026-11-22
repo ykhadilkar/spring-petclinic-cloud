@@ -20,13 +20,13 @@
 		<java.version>11</java.version>
 		<assertj.version>3.11.1</assertj.version>
 
-		<spring-boot.version>2.3.1.RELEASE</spring-boot.version>
+		<spring-boot.version>3.5.14</spring-boot.version>
 		<spring-cloud.version>Hoxton.SR6</spring-cloud.version>
 		<wavefront.version>2.0.1-SNAPSHOT</wavefront.version>
 
 		<maven-surefire-plugin.version>2.22.0</maven-surefire-plugin.version>
 
-		<webjars-bootstrap.version>3.3.7-1</webjars-bootstrap.version>
+		<webjars-bootstrap.version>3.4.1</webjars-bootstrap.version>
 		<webjars-jquery-ui.version>1.11.4</webjars-jquery-ui.version>
 		<webjars-jquery.version>3.1.1-1</webjars-jquery.version>
 		<webjars-angular.version>1.6.4</webjars-angular.version>
